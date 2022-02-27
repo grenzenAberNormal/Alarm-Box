@@ -1,0 +1,19 @@
+{
+  "name": "grenzenAberNormal",
+  "version": "0.0.1",
+  "description": "AP-Twitter DIY-Alarm-Box",
+  "main": "index.js",
+  "authors": {
+    "name": "Unknown",
+    "email": "grenzenabernormal@gmail.com"
+  },
+  "repository": "grenzenAberNormal/grenzenAberNormal",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
