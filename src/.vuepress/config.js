@@ -30,6 +30,7 @@ module.exports = {
    * ref：https://v1.vuepress.vuejs.org/theme/default-theme-config.html
    */
   themeConfig: {
+    sidebar: 'auto',
     search: false,
     searchMaxSuggestions: 10,
     repo: '',
