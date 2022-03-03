@@ -8,7 +8,7 @@ export const data = {
     "heroImage": "https://v1.vuepress.vuejs.org/hero.png",
     "tagline": "AP-Twitter DIY-Alarm-Box",
     "actionText": "Quick Start →",
-    "actionLink": "/guide/",
+    "actionLink": "https://twitter.com/alarm_phone",
     "features": [
       {
         "title": "Feature 1 Title",
