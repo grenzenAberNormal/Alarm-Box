@@ -7,6 +7,9 @@ run
 dist
 .DS_Store
 .nyc_output
+.cache
 .basement
 config.local.js
 basement_dist
+.vscode
+.idea

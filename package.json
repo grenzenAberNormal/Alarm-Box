@@ -15,5 +15,9 @@
   "license": "MIT",
   "devDependencies": {
     "vuepress": "^1.9.7"
+  },
+  "dependencies": {
+    "@vuepress/plugin-last-updated": "1.9.7",
+    "timeago.js": "4.0.2"
   }
 }
