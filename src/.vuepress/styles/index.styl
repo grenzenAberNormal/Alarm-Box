@@ -382,3 +382,34 @@ div[class*='language-']
       background #e6f3ff
       border-color #b6d1ea
       color #1ea1f1
+.button-container
+  display flex
+  .button
+    display: inline-block;
+    background: #fff;
+    padding: 10px 15px 10px 40px;
+    border: solid 2px #8ca0b2
+    border-radius: 5px;
+    margin: 0 auto;
+    transition: all 0.2s ease;
+    color: #8ca0b2;
+    font-weight: 900;
+    font-size: 14px;
+    position relative
+    &:after
+      content: '';
+      display: block;
+      background: url(https://upload.wikimedia.org/wikipedia/commons/e/e4/Infobox_info_icon.svg) ;
+      width: 20px;
+      height: 100%;
+      position: absolute;
+      z-index: 9;
+      top: 0;
+      left: 15px;
+      background-size: contain;
+      background-repeat: no-repeat;
+      background-position: center center;
+    &:hover
+      background #e6f3ff
+      border-color #b6d1ea
+      color #1ea1f1
