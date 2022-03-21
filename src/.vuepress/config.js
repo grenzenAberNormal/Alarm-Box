@@ -31,7 +31,7 @@ module.exports = {
    * ref：https://v1.vuepress.vuejs.org/theme/default-theme-config.html
    */
   themeConfig: {
-    author: 'Mahmoud Tammaa',
+    author: 'Mahmoud Tamaa',
 
   /**
    * Apply plugins，ref：https://v1.vuepress.vuejs.org/zh/plugin/

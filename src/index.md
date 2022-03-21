@@ -1,4 +1,4 @@
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Die Alarmbox ist mit der Twitter-API des Projektes Watch The Med-Alarmphone verbunden. Auf Social-Media wird in Echtzeit dokumentiert, was die Menschen am Telefon berichten und ob die verantwortlichen Behörden ihrer Pflicht zur Rettung nachkommen. Ob Menschen sich selbst überlassen, oder illegal über die Grenze zurück gepusht werden. Wenn auf Twitter ein neuer Fall veröffentlicht wird, löst die Box einen Alarm aus: Nach einem Alarmsignal wird durch den integrierten Lautsprecher der aktuelle Tweet vorgelesen. Der Alarm soll stören und uns die Möglichkeit geben, unsere Gewohnheiten zu hinterfragen. Grenzen entscheiden über die Zukunft, Leben und Tod von Menschen. Ist das normal?
 
 <br/>
 <div class="tweeter-button-container">
@@ -9,3 +9,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
     Alarm Phone
 </a>
 </div>
+<br/>
+
+
