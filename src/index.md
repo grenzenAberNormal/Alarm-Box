@@ -1,15 +1,19 @@
 
-  Die Alarmbox löst in Echtzeit einen Alarm aus, wenn ein Boot in Seenot gerät, vermisst wird oder an den Grenzen illegal zurück gepusht wird. Nach einem Alarmsignal wird durch den integrierten Lautsprecher die aktuelle Info über den Fall vorgelesen.
+Die Alarmbox:  
+Hier ertönt ein Alarmsignal, wenn Menschen im Mittelmeer in Seenot geraten, wenn ein Boot vermisst wird oder an den EU-Außengrenzen illegal zurück gepusht wird.  
 
-  Die Infos werden von **Watch The Med-Alarmphone** Twitter Seite entnohmen.  
+Die Informationen werden von der Twitter Seite des Watch The Med -  Alarmphone entnommen. Das Alarmphone ist eine 24/7 erreichbare Notruf Nummer. Über viele Boote wird in Echtzeit auf Twitter berichtet.
 
+Die Tweets werden von der Alarmbox vorgelesen.  
+
+ 
 
 <div class="tweeter-button-container">
 <a class="tweeter-button"
     href="https://twitter.com/alarm_phone"
     target="_blank"
     rel="noopener noreferrer">
-    Alarm Phone
+    ALARMPHONE TWITTER
 </a>
 </div>
 <br/>
@@ -20,9 +24,10 @@
     href="/Alarm-Box/Info"
     target="_blank"
     rel="noopener noreferrer">
-    More
+    MEHR INFOS ÜBER DAS PROJEKT
     
 </a>
 </div>
 <br/>
+
 
