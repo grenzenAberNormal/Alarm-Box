@@ -4,7 +4,7 @@ Hier ertönt ein Alarmsignal, wenn Menschen im Mittelmeer in Seenot geraten, wen
 
 Die Informationen werden von der Twitter Seite des Watch The Med -  Alarmphone entnommen. Das Alarmphone ist eine 24/7 erreichbare Notruf Nummer. Über viele Boote wird in Echtzeit auf Twitter berichtet.
 
-Die Tweets werden von der Alarmbox vorgelesen.  
+Die Tweets werden von der Alarmbox vorgelesen. .... 
 
  
 
