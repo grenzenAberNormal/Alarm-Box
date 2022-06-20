@@ -3,9 +3,6 @@
 **Course Title**... Probes    
 **Lecturer**........... Prof. Dennis Paul    
 **Semester**......... WS 2021
-<img src="/upload/alarmBox.JPG"
-     alt="Markdown Monster icon"
-     style="float: left; margin-right: 10px;" />  
 **Die Alarmbox:**  
 Hier ertönt ein Alarmsignal wenn Menschen im Mittelmeer in Seenot geraten, wenn ein Boot vermisst wird oder an den EU-Außengrenzen illegal zurück gepusht wird.  
 
