@@ -1,9 +1,5 @@
-     
-**Student**........... Mahmoud Tamaa    
-**Course Title**... Probes    
-**Lecturer**........... Prof. Dennis Paul    
-**Semester**......... WS 2021  
-___
+  
+
 **Die Alarmbox:**  
 Hier ertönt ein Alarmsignal wenn Menschen im Mittelmeer in Seenot geraten, wenn ein Boot vermisst wird oder an den EU-Außengrenzen illegal zurück gepusht wird.  
 
@@ -45,3 +41,13 @@ The tweets are read out loud by the Alarmbox.
 
 
 <div style="padding:75% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/699390150?h=85539b5dfd&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="GrenzenAberNormalS"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+
+___
+**The Project was realized with the support of** 
+
+Alarmphone
+Odai Alali
+Marie Gerwing 
+Prof. Dennis Paul
+
+**Thank you!**
