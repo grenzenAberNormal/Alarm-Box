@@ -45,9 +45,6 @@ The tweets are read out loud by the Alarmbox.
 ___
 **The Project was realized with the support of** 
 
-Alarmphone
-Odai Alali
-Marie Gerwing 
-Prof. Dennis Paul
+Alarmphone, Odai Alali, Marie Gerwing, Prof. Dennis Paul
 
 **Thank you!**
